@@ -9,3 +9,18 @@ p {
     justify-content: space-between;
     padding: 3px 0;
 }
+
+.box {
+    width: 100px;
+    height: 100px;
+    border: 1px solid #666;
+    background-color: #ccc;
+}
+
+.fondo-1 {
+    background-color: #6f4;
+}
+
+.fondo-2 {
+    background-color: #a4d;
+}

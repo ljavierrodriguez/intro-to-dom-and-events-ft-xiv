@@ -71,4 +71,7 @@ li.appendChild(iconTrash);
 fend.appendChild(li);
 li.parentNode.style.backgroundColor = 'gray';
 
+let a = fend.childNodes;
+a[3].remove()
 
+fend.removeChild(fend.childNodes[1]);
