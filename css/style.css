@@ -1,0 +1,11 @@
+p {
+    color: forestgreen;
+}
+
+.lista li {
+    list-style: none;
+    width: 300px;
+    display: flex;
+    justify-content: space-between;
+    padding: 3px 0;
+}
